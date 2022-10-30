@@ -32,4 +32,5 @@ as seen here: https://www.youtube.com/watch?v=wyuec0PPz68
 1.  heat the oven to 180°C
 2. use cookie scoops (or ice cream scoops for big cookies) and place them in a tray, with plenty of space between them
 3. bake in the oven for 8 to 10 min for the normal cookies or 12 to 15min for the big cookies
-4. Cookie hack: while baking, interrupt the baking and lift the tray and drop it inside the oven, this will pop the bubbles inside the cookie. do this 3 times while baking at different time intervals
+4. The cookies won't get hard while baking, take them out of the oven even if they're still soft. Don't even let them get brown-ish
+5. Cookie hack: while baking, interrupt the baking and lift the tray and drop it inside the oven, this will pop the bubbles inside the cookie. do this 3 times while baking at different time intervals
